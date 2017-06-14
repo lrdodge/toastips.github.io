@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "9 Must-Read Tips for First-Time Toast"
+author: "Hayley MacMillen"
 categories: tips
 tags: [documentation,sample]
 image:

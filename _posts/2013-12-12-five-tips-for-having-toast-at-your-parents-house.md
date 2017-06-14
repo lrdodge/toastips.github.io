@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "5 Tips for Having Toast at Your Parents' House"
+author: "Cosmo Frank"
 categories: tips
 tags: [documentation,sample]
 image:

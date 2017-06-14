@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "10 Tips For Surviving Your First Toast Party"
+author: "Laura Jayne Martin"
 categories: tips
 tags: [documentation,sample]
 image:
