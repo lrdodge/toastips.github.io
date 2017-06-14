@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tips for First-Time Toast"
+author: "Ian Kerner"
 categories: tips
 tags: [documentation,sample]
 image:
