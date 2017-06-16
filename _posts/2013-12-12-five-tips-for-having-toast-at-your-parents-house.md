@@ -6,7 +6,7 @@ categories: tips
 tags: [documentation,sample]
 image:
   feature: breakfast-848313_640.jpg
-  teaser: breakfast-848313_640.jpg
+  teaser: breakfast-848313_640-teaser.jpg
   credit:
   creditlink:
 ---
