@@ -5,7 +5,7 @@ categories: tips
 tags: [documentation,sample]
 image:
   feature: tweet-155281_640.png
-  teaser: tweet-155281_640.png
+  teaser: tweet-155281_640-teaser.png
   credit:
   creditlink:
 ---

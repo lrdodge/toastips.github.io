@@ -6,7 +6,7 @@ categories: tips
 tags: [documentation,sample]
 image:
   feature: poached-eggs-on-toast-739401_640.jpg
-  teaser: poached-eggs-on-toast-739401_640.jpg
+  teaser: poached-eggs-on-toast-739401_640-teaser.jpg
   credit:
   creditlink:
 ---

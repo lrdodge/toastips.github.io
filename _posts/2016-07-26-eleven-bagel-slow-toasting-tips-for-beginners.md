@@ -6,7 +6,7 @@ categories: tips
 tags: [documentation,sample]
 image:
   feature: burger-1228868_640.jpg
-  teaser: burger-1228868_640.jpg
+  teaser: burger-1228868_640-teaser.jpg
   credit:
   creditlink:
 ---

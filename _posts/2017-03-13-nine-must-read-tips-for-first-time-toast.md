@@ -6,7 +6,7 @@ categories: tips
 tags: [documentation,sample]
 image:
   feature: adult-1867769_640.jpg
-  teaser: adult-1867769_640.jpg
+  teaser: adult-1867769_640-teaser.jpg
   credit:
   creditlink:
 ---

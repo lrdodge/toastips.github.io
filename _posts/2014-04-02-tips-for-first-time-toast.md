@@ -6,7 +6,7 @@ categories: tips
 tags: [documentation,sample]
 image:
   feature: toast-1077984_640.jpg
-  teaser: toast-1077984_640.jpg
+  teaser: toast-1077984_640-teaser.jpg
   credit:
   creditlink:
 ---
