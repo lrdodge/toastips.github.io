@@ -4,8 +4,8 @@ title: "10 Toast Tips From Toast Tips Twitter Followers"
 categories: tips
 tags: [documentation,sample]
 image:
-  feature: fried-eggs-456351_640.jpg
-  teaser: fried-eggs-456351_640.jpg
+  feature: tweet-155281_640.png
+  teaser: tweet-155281_640.png
   credit:
   creditlink:
 ---

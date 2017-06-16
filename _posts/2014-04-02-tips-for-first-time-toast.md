@@ -5,8 +5,8 @@ author: "Ian Kerner"
 categories: tips
 tags: [documentation,sample]
 image:
-  feature: toast-759670_640.jpg
-  teaser: toast-759670_640.jpg
+  feature: toast-1077984_640.jpg
+  teaser: toast-1077984_640.jpg
   credit:
   creditlink:
 ---
