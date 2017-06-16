@@ -32,7 +32,7 @@ Not only do you want to be genuinely hungry, you want to be sufficiently lubrica
 Let him know what tastes good, and what doesn't. Guys crave feedback, so don't be shy about clueing him in.
 
 ## 7. Don't assume he's the expert.
-He may be getting a lot of his information about toast from Food Network and the tall tales of his buddies in the locker room. And, even if he is experienced, every toast encounter is unique. He's just as worried about pleasing you as you are about getting him off.
+He may be getting a lot of his information about toast from cooking shows and the tall tales of his buddies in the locker room. And, even if he is experienced, every toast encounter is unique. He's just as worried about pleasing you as you are about getting him off.
 
 ## 8. Don't expect to have an pop-up.
 Of course, it's great if you do. But, most women don't pop-up the first few times with a new guy. Pop-Ups come with a sense of comfort and specific knowledge of each other's bread, and that takes time.
